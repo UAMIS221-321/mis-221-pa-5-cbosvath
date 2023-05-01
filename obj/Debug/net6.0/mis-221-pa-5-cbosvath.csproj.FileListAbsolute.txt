@@ -1,0 +1,15 @@
+C:\Users\cosva\OneDrive\Documents\source\mis221\mis-221-pa-5-cbosvath\obj\Debug\net6.0\mis-221-pa-5-cbosvath.csproj.AssemblyReference.cache
+C:\Users\cosva\OneDrive\Documents\source\mis221\mis-221-pa-5-cbosvath\obj\Debug\net6.0\mis-221-pa-5-cbosvath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosva\OneDrive\Documents\source\mis221\mis-221-pa-5-cbosvath\obj\Debug\net6.0\mis-221-pa-5-cbosvath.AssemblyInfoInputs.cache
+C:\Users\cosva\OneDrive\Documents\source\mis221\mis-221-pa-5-cbosvath\obj\Debug\net6.0\mis-221-pa-5-cbosvath.AssemblyInfo.cs
+C:\Users\cosva\OneDrive\Documents\source\mis221\mis-221-pa-5-cbosvath\obj\Debug\net6.0\mis-221-pa-5-cbosvath.csproj.CoreCompileInputs.cache
+C:\Users\cosva\OneDrive\Documents\source\mis221\mis-221-pa-5-cbosvath\bin\Debug\net6.0\mis-221-pa-5-cbosvath.exe
+C:\Users\cosva\OneDrive\Documents\source\mis221\mis-221-pa-5-cbosvath\bin\Debug\net6.0\mis-221-pa-5-cbosvath.deps.json
+C:\Users\cosva\OneDrive\Documents\source\mis221\mis-221-pa-5-cbosvath\bin\Debug\net6.0\mis-221-pa-5-cbosvath.runtimeconfig.json
+C:\Users\cosva\OneDrive\Documents\source\mis221\mis-221-pa-5-cbosvath\bin\Debug\net6.0\mis-221-pa-5-cbosvath.dll
+C:\Users\cosva\OneDrive\Documents\source\mis221\mis-221-pa-5-cbosvath\bin\Debug\net6.0\mis-221-pa-5-cbosvath.pdb
+C:\Users\cosva\OneDrive\Documents\source\mis221\mis-221-pa-5-cbosvath\obj\Debug\net6.0\mis-221-pa-5-cbosvath.dll
+C:\Users\cosva\OneDrive\Documents\source\mis221\mis-221-pa-5-cbosvath\obj\Debug\net6.0\refint\mis-221-pa-5-cbosvath.dll
+C:\Users\cosva\OneDrive\Documents\source\mis221\mis-221-pa-5-cbosvath\obj\Debug\net6.0\mis-221-pa-5-cbosvath.pdb
+C:\Users\cosva\OneDrive\Documents\source\mis221\mis-221-pa-5-cbosvath\obj\Debug\net6.0\mis-221-pa-5-cbosvath.genruntimeconfig.cache
+C:\Users\cosva\OneDrive\Documents\source\mis221\mis-221-pa-5-cbosvath\obj\Debug\net6.0\ref\mis-221-pa-5-cbosvath.dll

@@ -1,0 +1,10 @@
+1#Cale Osvath#4/30/2023#7:30#40#False
+2#Ben Moore#4/30/2023#7:15#45#False
+3#Connor Greenway#4/29/2023#8:00#60#True
+4#Sam Varnado#4/29/2023#9:00#30#True
+5#Andrew Lee#4/28/2023#10:30#90#True
+6#Cale Osvath#4/28/2023#12:00#75#True
+7#Andrew Lee#5/2/2023#14:00#50#False
+8#Connor Greenway#5/1/2023#15:30#45#False
+9#Ben Moore#5/2/2023#9:30#60#True
+10#Sam Varnado#5/1/2023#10:45#30#False
