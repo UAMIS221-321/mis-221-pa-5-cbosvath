@@ -101,16 +101,7 @@ namespace mis_221_pa_5_cbosvath
             } catch (IOException ex){
                 System.Console.WriteLine("Error Writing to File: ");
             }
-        }
-        //historical revenue report 
-        public void MonthYearReport(){
-            System.Console.WriteLine("Current Monthly Revenue:\n");
-            System.Console.WriteLine("April: $85");
-            System.Console.WriteLine("May: $125\n");
-            System.Console.WriteLine("Estimated Monthly Revenue per Month Until Year End: $105\n");
-            System.Console.WriteLine("Year End Revenue Report: ~$945");
-            Save();
-        }
+        } 
         //save for the historical customer sessions and historcial revenue report of the report functions
         private void Save(){
             System.Console.WriteLine("Enter Save File: ");
@@ -121,6 +112,15 @@ namespace mis_221_pa_5_cbosvath
                 outFile.WriteLine(bookings[i].ToFile());
             }
             outFile.Close();
+        }
+        //historical revenue report
+        public void MonthYearReport(){
+            System.Console.WriteLine("Current Monthly Revenue:\n");
+            System.Console.WriteLine("April: $85");
+            System.Console.WriteLine("May: $125\n");
+            System.Console.WriteLine("Estimated Monthly Revenue per Month Until Year End: $105\n");
+            System.Console.WriteLine("Year End Revenue Report: ~$945");
+            Save();
         }
         
         //sort method for individual customer sessions

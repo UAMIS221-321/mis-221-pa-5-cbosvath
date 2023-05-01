@@ -27,6 +27,17 @@ static int GetUserChoice(){
 //display main menu to user
 static void DisplayMainMenu(){
     Console.Clear();
+     Console.Title = "ASCII Art";
+            string title = @" 
+ _____        _            _____                                        
+(_   _)_     ( )          (_   _)           _                           
+  | | (_)   _| |   __       | | _ __   _ _ (_)  ___     __   _ __   ___ 
+  | | | | /'_` | /'__`\     | |( '__)/'_` )| |/' _ `\ /'__`\( '__)/',__)
+  | | | |( (_| |(  ___/     | || |  ( (_| || || ( ) |(  ___/| |   \__, \
+  (_) (_)`\__,_)`\____)     (_)(_)  `\__,_)(_)(_) (_)`\____)(_)   (____/
+                                                                        ";
+
+            Console.WriteLine(title);
     System.Console.WriteLine("1: Manage Trainer Data\n2: Manage Listing Data\n3: Manage Customer Booking Data\n4: Run Reports\n5: Exit");
 }
 
